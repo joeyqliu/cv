@@ -14,7 +14,7 @@
   <h3 align="center">👋 Joey's CV ✌🏻</h3>
 
   <p align="center">
-    My latex CV built, thumbnailed, released and published to <br/> my GitHub Pages personal website through GitHub actions 🤘 <br/> Special thanks to [Max Powis](https://max.pow.is) for the original template! 🙏🏻
+    My latex CV built, thumbnailed, released and published to <br/> my GitHub Pages personal website through GitHub actions 🤘 <br/> Special thanks to <a href="https://max.pow.is">Max Powis</a> for the original template! 🙏🏻
     <br />
     <!-- <a href="https://max.pow.is/cv"><strong>View online »</strong></a> -->
     <br />
