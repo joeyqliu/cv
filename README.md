@@ -7,8 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/joeyqliu/cv">
-    <img src="https://avatars.githubusercontent.com/u/27241765?s=48&v=4" alt="Logo" height="80">
+  <a href="https://github.com/joeyqliu">
+    <img src="assets/pixel_me.jpeg" alt="Logo" height="80">
   </a>
 
   <h3 align="center">👋 Joey's CV ✌🏻</h3>
