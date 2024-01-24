@@ -1,29 +1,29 @@
 <a name="readme-top"></a>
 
-![repo size](https://img.shields.io/github/repo-size/maxpowis/cv)
-![license](https://img.shields.io/github/license/maxpowis/cv)
-![last commit](https://img.shields.io/github/last-commit/maxpowis/cv)
+![repo size](https://img.shields.io/github/repo-size/joeyqliu/cv)
+![license](https://img.shields.io/github/license/joeyqliu/cv)
+![last commit](https://img.shields.io/github/last-commit/joeyqliu/cv)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/maxpowis/cv">
-    <img src="https://max.pow.is/assets/img/cv/cv-00.png" alt="Logo" height="80">
+  <a href="https://github.com/joeyqliu/cv">
+    <img src="https://avatars.githubusercontent.com/u/27241765?s=48&v=4" alt="Logo" height="80">
   </a>
 
-  <h3 align="center">Max Powis's CV on 💊 steroids</h3>
+  <h3 align="center">👋 Joey's CV ✌🏻</h3>
 
   <p align="center">
-    My latex 🧔‍♂️ CV built, thumbnailed, released and published to <br/> my GitHub Pages personal website through GitHub actions 🤘
+    My latex CV built, thumbnailed, released and published to <br/> my GitHub Pages personal website through GitHub actions 🤘 <br/> Special thanks to [Max Powis](https://max.pow.is) for the original template! 🙏🏻
     <br />
-    <a href="https://max.pow.is/cv"><strong>View online »</strong></a>
+    <!-- <a href="https://max.pow.is/cv"><strong>View online »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/maxpowis/cv/discussions">Share ideas</a>
+    <a href="https://github.com/joeyqliu/cv/discussions">Share ideas</a>
     ·
-    <a href="https://github.com/maxpowis/cv/issues">Report Bug</a>
+    <a href="https://github.com/joeyqliu/cv/issues">Report Bug</a>
     ·
-    <a href="https://github.com/maxpowis/cv/issues">Request Feature</a>
+    <a href="https://github.com/joeyqliu/cv/issues">Request Feature</a>
   </p>
 </div>
 
