@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 ![repo size](https://img.shields.io/github/repo-size/joeyqliu/cv)
-![license](https://img.shields.io/github/license/joeyqliu/cv)
 ![last commit](https://img.shields.io/github/last-commit/joeyqliu/cv)
 
 <!-- PROJECT LOGO -->
@@ -19,11 +18,11 @@
     <!-- <a href="https://max.pow.is/cv"><strong>View online »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/joeyqliu/cv/discussions">Share ideas</a>
+    <a href="https://github.com/joeyqliu/cv/discussions">Fork This</a>
     ·
-    <a href="https://github.com/joeyqliu/cv/issues">Report Bug</a>
+    <a href="https://github.com/joeyqliu/cv/issues">Report Bug 🐞</a>
     ·
-    <a href="https://github.com/joeyqliu/cv/issues">Request Feature</a>
+    <a href="https://github.com/joeyqliu/cv/issues">Request Feature 💡</a>
   </p>
 </div>
 
@@ -61,13 +60,13 @@ Peronal add-ons:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Preview
+<!-- ## Preview
 
 Page 1 | Page 2 | Page 3 | Page 4
 :--------------:|:---------------:|:---------------:|:---------------:
 ![cv1](https://max.pow.is/assets/img/cv/cv-00.png)| ![cv2](https://max.pow.is/assets/img/cv/cv-01.png)| ![cv3](https://max.pow.is/assets/img/cv/cv-02.png)| ![cv4](https://max.pow.is/assets/img/cv/cv-03.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 # Built with
 
