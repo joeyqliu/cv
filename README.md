@@ -18,7 +18,7 @@
     <!-- <a href="https://max.pow.is/cv"><strong>View online »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/joeyqliu/cv/discussions">Fork This</a>
+    <a href="https://github.com/joeyqliu/cv/discussions">Fork This 🍴</a>
     ·
     <a href="https://github.com/joeyqliu/cv/issues">Report Bug 🐞</a>
     ·
@@ -155,23 +155,23 @@ graph TD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-# Roadmap
+<!-- # Roadmap
 
 * [ ] [Expose dark cv as alternate download on personal website](https://github.com/maxpowis/cv/milestone/3)
 * [ ] Complete this README with missing GitHub actions flowcharts and descriptions
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
-# License
+<!-- # License
 
 Based on the [Beerware](https://en.wikipedia.org/wiki/Beerware) license.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
-# Contact
+<!-- # Contact
 
-Well, you'll find it all in my [cv](https://max.pow.is/cv.)
+You can find it all in my [cv](https://max.pow.is/cv.)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
