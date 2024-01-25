@@ -24,10 +24,10 @@
 \ifdefined\releaseurl
   \def\getreleaseurl{\releaseurl}
 \else
-  \def\getreleaseurl{https://github.com/maxpowis/cv/releases/}
+  \def\getreleaseurl{https://github.com/joeyqliu/cv/releases/}
 \fi
 \pagestyle{fancy}
-\fancyfoot[L]{Max~Powis}
+\fancyfoot[L]{Joey Liu}
 \fancyfoot[C]{Page~\thepage~of~\pageref*{LastPage}}
 \fancyfoot[R]{Release \href{\getreleaseurl}{\getreleaseversion}~--~\today}
 \renewcommand{\footrulewidth}{0.4pt}% default is 0pt
@@ -166,11 +166,8 @@
 
 \par{
   \centering{
-    \Huge \textsc{Max Powis}\par
-    \large \textsc{Data Expert}\par
-    \small \textsc{(\displayage{1982-11-07})}\par
-    \textsc{Data is gold but often looks awful. I am passionate about using technology\linebreak
-    to making it accessible and beautifully shaped to maximize business efficiency.}\par
+    \Huge \textsc{Joey Liu}\par
+    \large \textsc{Software Engineer}\par
   }
   \bigskip\par
 }
@@ -182,22 +179,20 @@
 \newcolumntype{x}[1]{>{\centering\arraybackslash}m{#1}}
 \begin{tabular}{ cx{14em} cx{14em} cx{14em} }
   \textsc{Contact} 
-  & \textsc{Website} 
   & \textsc{Socials}\\
-  \faEnvelope[regular]{} \href{mailto:max@maxpowx.com}{max@maxpowx.com}
-  & \faGlobe{} \href{https://max.pow.is}{max.pow.is} 
-  & \faLinkedin{} \href{https://www.linkedin.com/in/maxpowis/}{linkedin}\\
-  \faMobile*{} \href{tel:0032499673767}{+32 499 67 37 67} 
-  & \faGlobe{} \href{https://www.maxpowx.com}{maxpowx.com}
-  & \faGithub{} \href{https://github.com/maxpowis}{github} \faTwitter{} \href{https://twitter.com/maxpowis}{twitter}
+  \faEnvelope[regular]{} \href{mailto:joeyqliu@gmail.com}{joeyqliu@gmail.com}
+  & \faLinkedin{} \href{https://www.linkedin.com/in/joeyqliu/}{linkedin}\\
+  \faMobile*{} \href{tel:5104088928}{(510) 408-8928} 
+  & \faGithub{} \href{https://github.com/joeyqliu}{github}
 \end{tabular}
 \end{center}
 
 \section{Summary}
 \begin{tabular}{p{0.97\textwidth}}
-  I am passionate about data and technology. 
-   My deepest satisfaction lies in delivering highly efficient and modular solutions relying on strong data models 
-   for reuse across various data disciplines.\smallskip
+  I'm a software engineer passionate about the ins and outs of platform engineering. My experience has been in
+  managing large scale deployments of infrastructure as code platforms as well as working in closely in various
+  cloud platforms such as AWS and GCP. I love enabling other engineers to deploy infrastructure and enjoy bridging
+  the gap between product teams and the platform at large. \smallskip
 
   Throughout my career, I have endorsed various positions involving data governance, data architecture, data modeling (data vaulting, 
    dimensional modeling, unified star schemas, \ldots), data integration, system integration, reference data management and business 
@@ -206,9 +201,9 @@
   Interests: \sotag{data-modeling} \sotag{data-architecture} \sotag{data-integration} \sotag{data-warehouse-automation}
 \end{tabular}
 
-\section{Companies I have worked for}
+\section{Experience}
 \begin{longtable}{p{3.2cm}|p{14.1cm}}
-  \joblogcurrent{Freelance Data Expert}{maxPowX}{Brussels, BE}{2019-01-07}{%
+  \joblogcurrent{Software Engineer, Cloud Engineering}{Handshake}{San Francisco, CA}{2023-05-01}{%
     Consultant in data architecture, data modeling, data governance, data integration, system integration, reference data %
      and business analytics.%
   }{}
@@ -226,7 +221,7 @@
   }{}
 \end{longtable}
 
-\section{Benches I have scratched}
+\section{Projects}
 \begin{longtable}{p{3.2cm}|p{14.1cm}}
   \joblog{Post-bachelor E-Design}{HoGent\gape{\footnotemark[1]}}{Aalst, BE}{2005-09-01}{2006-06-30}{%
     Coursework included Multimedia Authoring, e-Business, Web design \& dev, CMS and more.\\%
@@ -243,7 +238,7 @@
 
 \newpage
 
-\section{Missions I have carried out}
+\section{Volunteer Work}
 \begin{longtable}{p{3.2cm}|p{14.1cm}}
   \joblogcurrent{Data Expert}{SaaS Company}{Flemish region, BE}{2023-02-01}
     {Defined the vision, architecture and lead the implementation of the modern data platform, operating model and data product frameworks with their principles, guidelines and standards.\\%
@@ -357,13 +352,5 @@
     & Intermediate\\
   \end{tabular}
 \end{center}
-
-\section{Specializations}
-\begin{tabular}{rl}
-  \textsc{Courses:}
-  &Collibra Expert I -- Online (Credential ID \texttt{\scriptsize{CELIC-20190131-1072}})\\
-  &Certified Data Vault 2 Practitioner (CDVP2) -- Dan Lindstedt (\href{https://max.pow.is/assets/5_2_12900_1435331244_CDVP2_Certificate.pdf}{certificate})\\
-  &Business Information using RED on SQL Server -- WhereScape
-\end{tabular}
 
 \end{document}
