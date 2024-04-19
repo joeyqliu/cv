@@ -29,7 +29,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: joeyqliu/joeyqliu.github.io
-          token: ${{ secrets.API_TOKEN_GITHUB }}
+          token: ${{ github.token }}
           path: ./github-pages
       - name: Copy pdf files to github-pages
         run: |
